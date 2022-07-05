@@ -1,0 +1,12 @@
+[user]
+	name = evgenia
+	email = evgeshhh@gmail.com
+[init]
+	defaultBranch = master
+[alias]
+	history = log --graph
+	co = checkout
+	br = branch
+	ch = checkout
+	com = commit
+	st = status
