@@ -10,3 +10,4 @@
 	ch = checkout
 	com = commit
 	st = status
+	aa = add .
